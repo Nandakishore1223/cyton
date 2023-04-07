@@ -1,0 +1,20 @@
+.body{
+    background: rgb(252, 250, 250);
+    
+}
+#head{
+    background: rgb(255, 255, 255);
+    height: 122px;
+    width: 100%;
+}
+
+.col-5{
+    height: 87px;
+    
+}
+.contact
+{
+    position: absolute;
+    left: 460px;
+    top: 40px;
+}
